@@ -1,4 +1,4 @@
-# Week 2 - Iteration, Greyboxing and Playtesting
+# Week 02 - Iteration, Greyboxing and Playtesting
 Today we will be getting familiar with the use of iterative design in our game making process. We will be introducing you to the idea of playtesting and experience goals to achieve this.
 
 ## Tools used
